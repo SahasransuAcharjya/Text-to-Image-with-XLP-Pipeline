@@ -1,8 +1,5 @@
 # 🎨 RealVis Image Studio
 
-> **A photorealistic AI image generation engine** built on `RealVisXL V4.0`, powered by the Stable Diffusion XL (SDXL) architecture, and served through a clean Gradio web interface — all running on a free Google Colab GPU.
-
----
 
 ## 📌 Table of Contents
 
